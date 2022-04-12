@@ -12,11 +12,11 @@ This homeowrk provides practice in
 
 Solutions to homework questions will be graded not so much on their correctness as on the correct and precise specification of all the steps involved. The rigor of the supporting arguments carry more weight than the correctness of the answer.
 
-# Time Requirement
-Student teams who attempted this homework in the previous offering of this course took a total of these many hours:
-- (min, max): (2, 120)
-- (mean, median, st. dev.) : (17.7, 12, 19.6)
+# Previous Feedback
 
+Feedback from the previous set of students who attempted this assignment is summarized in the accompanying file, `feedback.md`.
+
+Based on it, questions have been grouped into sections and re-ordered to indicate increasing difficulty. Some unclear questions have been removed and some from HW 3 have been added that can now be attempted using induction.
 
 # Submission
 Submission is in 2 parts and you have to complete __both__ of them. Not submitting any of them will result in a loss of marks. Both are due simultaneously. Please make sure to submit well in time. There is __no late submission__. Please talk to your instructor in advance if you are at risk of missing the deadline.
